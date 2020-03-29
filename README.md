@@ -1,3 +1,13 @@
+# Personal Notes
+
+I was never really able to get this working. 
+
+But haptip to Barris Y for all the help. Especially the reverse on the bar chart. Still can't fathom why my JSON load is a problem.
+
+We tried.
+
+
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
