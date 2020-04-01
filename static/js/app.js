@@ -121,13 +121,13 @@ function plots(id) {
                type: "indicator",
                mode: "gauge+number",
                gauge: {
-                   axis: { range: [null, 9] },
-                   bar: { color: "rgb(31, 119, 180)" },
+                   axis: { range: [null, 12] },
+                   bar: { color: "rgb(20, 135, 160)" },
                }
            }
        ];
        
-       var gaugeData = [gaugeTrace];
+       
        var gaugeLayout = { width: 550, height: 600, margin: { t: 0, b: 0 } };
        Plotly.newPlot('gauge', gaugeData, gaugeLayout);        
    
